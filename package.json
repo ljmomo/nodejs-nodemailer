@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-nodemailer",
+  "version": "0.0.1",
+  "description": "nodejs-nodemailer",
+  "keywords": [
+    "email"
+  ],
+  "author": "Li JUN ",
+  "dependencies": {
+    "nodemailer": "^1.3.0",
+    "nodemailer-smtp-transport": "^0.1.12"
+  }
+}
